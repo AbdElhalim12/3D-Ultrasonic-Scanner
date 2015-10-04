@@ -6,6 +6,8 @@
  *
  * This is a quick and dirty hack for my projekt "3D Ultrasonic Scanner":
  * http://www.thingiverse.com/thing:892800
+ *
+ * I would say that this is a WIP, but I don't think I will work on it anymore.
  */ 
 
 #define F_CPU 8000000UL
